@@ -1,0 +1,7 @@
+[project]
+name = "cyber-telemetry-lake"
+version = "0.1.0"
+requires-python = ">=3.11"
+
+[project.scripts]
+cyber-telemetry-lake = "cyber_telemetry.cli:main"
